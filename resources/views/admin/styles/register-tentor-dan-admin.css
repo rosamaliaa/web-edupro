@@ -1,0 +1,278 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.register-tentor-dan-admin-iZK {
+  box-sizing: border-box;
+  padding-left: 7.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+}
+.register-tentor-dan-admin-iZK .login-page-img-SVK {
+  margin: 0rem 3.9rem 8.8rem 0rem;
+  width: 51.2rem;
+  height: 48.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-tentor-dan-admin-iZK .content-YoF {
+  width: 90.8rem;
+  height: 108rem;
+  position: relative;
+  background-color: #ebf8f6;
+  flex-shrink: 0;
+}
+.register-tentor-dan-admin-iZK .content-YoF .already-have-an-account-login-6Jy {
+  width: 29.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 27.3rem;
+  top: 88.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6eb6ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.register-tentor-dan-admin-iZK .content-YoF .already-have-an-account-login-6Jy .already-have-an-account-login-6Jy-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.register-tentor-dan-admin-iZK .content-YoF .already-have-an-account-login-6Jy .already-have-an-account-login-6Jy-sub-1 {
+}
+.register-tentor-dan-admin-iZK .content-YoF .or--Nvh {
+  width: 6.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 83.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-6Lu {
+  width: 75.8343rem;
+  height: 10.0195rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 17.4rem;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-6Lu .name-dLq {
+  margin: 0rem 0rem 0.164rem 0.253rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-6Lu .emailinp-xP7 {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-6Lu .emailinp-xP7 .enter-your-name-here-up9 {
+  width: 21.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.0557rem;
+  top: 1.793rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-6Lu .emailinp-xP7 .input-cTf {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-kZs {
+  width: 75.8343rem;
+  height: 10.0195rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 30.6rem;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-kZs .email-VXT {
+  margin: 0rem 0rem 0.164rem 0.253rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-kZs .emailinp-ppd {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-kZs .emailinp-ppd .enter-your-email-here-yxR {
+  width: 21rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.0557rem;
+  top: 1.793rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .emailinput-kZs .emailinp-ppd .input-tpV {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-eYm {
+  width: 75.8343rem;
+  height: 10.0195rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 43.8rem;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-eYm .password-PWM {
+  margin: 0rem 0rem 0.164rem 0.253rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-eYm .passwordinp-jKK {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-eYm .passwordinp-jKK .enter-your-password-here-J7X {
+  width: 25.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.0557rem;
+  top: 1.793rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-eYm .passwordinp-jKK .input-1nd {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-AQd {
+  width: 75.8343rem;
+  height: 10.0195rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 56.4rem;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-AQd .confirm-password-hvM {
+  margin: 0rem 0rem 0.164rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-AQd .passwordinp-pk5 {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-AQd .passwordinp-pk5 .enter-your-confirm-password-here-ycy {
+  width: 33.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 1.8359rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .passwordinput-AQd .passwordinp-pk5 .input-gnH {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.register-tentor-dan-admin-iZK .content-YoF .title-q9P {
+  width: 27.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 31.7rem;
+  top: 7.8rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-tentor-dan-admin-iZK .content-YoF .buttoncreateacc-LM3 {
+  width: 75rem;
+  height: 6.3281rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 73.2rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e5eff8;
+}

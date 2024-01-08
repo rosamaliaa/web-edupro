@@ -1,0 +1,508 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.landing-page--VsK {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #003580;
+}
+.landing-page--VsK .auto-group-kk2v-t8m {
+  box-sizing: border-box;
+  padding: 3.8rem 6.5rem 8.367rem 4.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM {
+  margin-bottom: 14.1689rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM .edupro-r13 {
+  margin-right: 51rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM .home-Sjw {
+  margin: 0.4rem 6.4rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM .about-us-fMo {
+  margin: 0.4rem 7rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM .contact-hpH {
+  margin: 0.4rem 8.8rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-l37b-PNM .auto-group-yenh-z2h {
+  width: 18.9rem;
+  height: 5.5rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff9800;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP {
+  margin: 0rem 7.766rem 0rem 2.9rem;
+  width: calc(100% - 10.6656rem);
+  height: 53.5639rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-cs3f-zqK {
+  margin: 13.331rem 14.968rem 13.933rem 0rem;
+  height: calc(100% - 27.2639rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-cs3f-zqK .pendidikan-terbaik-untuk-masa-depan-Tiu {
+  max-width: 59.1rem;
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-cs3f-zqK .pendidikan-adalah-proses-pembelajaran-memahami-pengetahuan-keterampilan-dan-kebiasaan-LXo {
+  max-width: 65.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-ba9t-aBF {
+  width: 49.366rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-ba9t-aBF .ellipse-3-fCh {
+  width: 46.7rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 0.9316rem;
+  top: 8.3311rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kk2v-t8m .auto-group-tjux-juP .auto-group-ba9t-aBF .rectangle-44-Xkh {
+  width: 49.366rem;
+  height: 53.5639rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 24.3rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd {
+  width: 165.7rem;
+  height: 149rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2561-6SR {
+  width: 151.2rem;
+  height: 137.9rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  background-color: #ebf8f6;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .selamat-datang-di-edupro-kami-adalah-sebuah-platform-pendidikan-daring-yang-berkomitmen-untuk-membantu-anda-mencapai-prestasi-akademik-terbaik-anda-dengan-lebih-dari-5-tahun-pengalaman-dalam-dunia-pendidikan-kami-telah-membantu-ribuan-siswa-meraih-sukses-CkM {
+  width: 131.8rem;
+  height: 21rem;
+  position: absolute;
+  left: 6rem;
+  top: 44.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: rgba(28, 29, 31, 0.8000000119);
+  font-family: Assistant, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .edupro-7F3 {
+  width: 28.8rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 33.5rem;
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-52-ZMw {
+  width: 33.1rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 0;
+  background-color: #007dff;
+  border-radius: 1rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .icon-box-rrq {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 29.3rem;
+  top: 4.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2559-YDs {
+  width: 33.1rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 0;
+  background-color: #007dff;
+  border-radius: 1rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2560-fZP {
+  width: 33.1rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 94.4rem;
+  top: 0;
+  background-color: #007dff;
+  border-radius: 1rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .icon-box-zrZ {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 68.3rem;
+  top: 4.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .icon-box-j3T {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 107.3rem;
+  top: 4.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .belajar-fleksibel-dimana-saja-4Ld {
+  width: 18.1rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 102.75rem;
+  top: 14rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .akses-materi-sepuasnya-85b {
+  width: 14.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 65.45rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .meningkatkan-minat-belajar-RqP {
+  width: 22.4rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 22.4rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2566-Y9K {
+  width: 98.2rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 71.8rem;
+  background-color: #157afe;
+  border-radius: 7rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2567-Tn5 {
+  width: 98.2rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 86.6rem;
+  background-color: #157afe;
+  border-radius: 7rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2568-zX7 {
+  width: 98.2rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 101.4rem;
+  background-color: #157afe;
+  border-radius: 7rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .kami-selalu-meningkatkan-kurikulum-setiap-tahunnya-demi-meningkatkan-kualitas-pendidikan-dan-pelajaran-v9s {
+  width: 61.9rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 77.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .kami-mendorong-tentor-dan-siswa-untuk-menciptakan-sebuah-kolabarasi-aktif-akD {
+  width: 64.9rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 92.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+}
+.landing-page--VsK .auto-group-kzn5-DNd .tanpa-batas-akses-materi-selama-aktif-mengikuti-pembelajaran-GN9 {
+  width: 66.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 107.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .inovasi-tentor-siswa-ko7 {
+  width: 30.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 88.5rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .kurikulum-terbaru-f9P {
+  width: 25rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 73.5rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .akses-selamanya-my7 {
+  width: 24.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 103.2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .cil-book-gaH {
+  width: 8.0328rem;
+  height: 9.0001rem;
+  position: absolute;
+  left: 30.3578rem;
+  top: 73.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .game-icons-teacher-1cZ {
+  width: 11.6649rem;
+  height: 8.4239rem;
+  position: absolute;
+  left: 28.5675rem;
+  top: 88.9607rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .ic-sharp-access-alarms-kKF {
+  width: 7.4167rem;
+  height: 7.6592rem;
+  position: absolute;
+  left: 32.0417rem;
+  top: 103.8825rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .rectangle-2570-fx1 {
+  width: 165.7rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 0;
+  top: 141.7rem;
+  background-color: #003580;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky {
+  width: 26.2rem;
+  height: 15.5034rem;
+  position: absolute;
+  left: 123.7rem;
+  top: 123.3483rem;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .vector-9cH {
+  width: 1.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 13.2517rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-31-5kq {
+  width: 2.1rem;
+  height: 1.5514rem;
+  position: absolute;
+  left: 0;
+  top: 9.7517rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .vector-R41 {
+  width: 1.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 5.4517rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-30-A1b {
+  width: 25.8rem;
+  height: 15.5034rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-30-A1b .contact-us-5uF {
+  margin-bottom: 2.8017rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 0.96;
+  color: #2c7dc7;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-30-A1b .wwweduprocom-Qgd {
+  margin: 0rem 0rem 1.5rem 2.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.96;
+  color: #1c1d1f;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-30-A1b .bimbeleduprocom-Kob {
+  margin: 0rem 0rem 1.602rem 2.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.96;
+  color: #1c1d1f;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page--VsK .auto-group-kzn5-DNd .group-148-1ky .group-30-A1b .item-022-7806125-e5B {
+  margin-left: 2.7553rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 0.96;
+  color: #1c1d1f;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}

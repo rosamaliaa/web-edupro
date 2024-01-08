@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Ujian Tentor</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Assistant%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron%3A400"/>
+  <link rel="stylesheet" href="{{ asset('tentor/styles/ujian-tentor-QB7.css') }}"/>
+</head>
+<body>
+<div class="ujian-tentor-ddF">
+  <div class="rectangle-2572-YVK">
+  </div>
+  <a href="{{ route('tentor.tugastentor') }}"><p class="tugas-s1o">Tugas</p></a>
+  <div class="rectangle-2637-kLV">
+  </div>
+  <a href="{{ route('tentor.tentoruser') }}"><p class="profile-UGV">Profile</p></a>
+  <a href="{{ route('user.landingpage') }}"><p class="logout-PPT">Logout</p></a>
+  <div class="rectangle-2574-WDB">
+  </div>
+  <div class="rectangle-2575-TPK">
+  </div>
+  <div class="ellipse-4-C61">
+  </div>
+  <p class="edupro-8VT">EduPro</p>
+  <img class="ic-round-list-SW9" src="{{ asset('tentor/assets/ic-round-list-pw7.png') }}"/>
+  <p class="username-yFB">Username</p>
+  <a href="{{ route('tentor.dashboard') }}"><p class="dashboard-g9b">Dashboard</p></a>
+  <p class="tentor-menu-yuP">TENTOR MENU</p>
+  <p class="user-menu-u2M">user MENU</p>
+  <img class="icon-park-twotone-dashboard-car-otR" src="{{ asset('tentor/assets/icon-park-twotone-dashboard-car-sUh.png') }}"/>
+  <img class="iconamoon-profile-jXB" src="{{ asset('tentor/assets/iconamoon-profile-sc9.png') }}"/>
+  <img class="material-symbols-logout-rounded-SwP" src="{{ asset('tentor/assets/material-symbols-logout-rounded-Pb3.png') }}"/>
+  <img class="ph-book-open-duotone-957" src="{{ asset('tentor/assets/ph-book-open-duotone-6H3.png') }}"/>
+  <img class="ph-book-duotone-qTj" src="{{ asset('tentor/assets/ph-book-duotone-hY1.png') }}"/>
+  <img class="healthicons-i-exam-multiple-choice-msB" src="{{ asset('tentor/assets/healthicons-i-exam-multiple-choice-6yj.png') }}"/>
+  <div class="rectangle-2592-gUM">
+  </div>
+  <a href="{{ route('tentor.materitentor') }}"><p class="materi-ZY9">Materi</p></a>
+  <div class="group-698-5WV">
+    <div class="auto-group-44sw-19F">
+      <p class="hasil--7xy">Hasil :</p>
+      <div class="auto-group-9alv-RCy">
+        <p class="all-ART">All  </p>
+        <img class="mingcute-right-line-sKs" src="{{ asset('tentor/assets/mingcute-right-line-zbo.png') }}"/>
+      </div>
+    </div>
+    <a href="{{ route('tentor.ujiantentor') }}"><p class="try-out-AJy">Try Out</p></a>
+    <div class="auto-group-xjxp-5gq">
+      <p class="nama-materi-D2M">NAMA MATERI</p>
+      <p class="mapel-89K">MAPEL</p>
+      <p class="kelas-4Hs">KELAS</p>
+      <p class="opsi-Pb3">OPSI</p>
+    </div>
+    <div class="auto-group-rkcm-jQ1">Tambah </div>
+    <div class="line-12-pAZ">
+    </div>
+    <div class="line-15-ka1">
+    </div>
+    <div class="line-13-VGh">
+    </div>
+    <div class="group-694-ddo">
+      <img class="auto-group-h9gr-xRB" src="{{ asset('tentor/assets/auto-group-h9gr.png') }}"/>
+      <div class="auto-group-d7df-WBo">1</div>
+      <img class="auto-group-sgm3-CaR" src="{{ asset('tentor/assets/auto-group-sgm3.png') }}"/>
+    </div>
+    <div class="auto-group-hqar-9Vf">
+      <p class="senyawa-kimia-GqB">Senyawa Kimia</p>
+      <p class="kimia-Bx9">Kimia</p>
+      <p class="xii-ipa-1-jTs">XII-IPA-1</p>
+      <img class="group-691-4W9" src="{{ asset('tentor/assets/group-691.png') }}"/>
+    </div>
+  </div>
+  <p class="tentor-edupro-Q4D">Tentor EduPro</p>
+  <p class="try-out-W7F">Try Out</p>
+  <div class="rectangle-2633-25b">
+  </div>
+  <div class="rectangle-2633-xV3">
+  </div>
+  <img class="ph-x-bold-Gkd" src="{{ asset('tentor/assets/ph-x-bold.png') }}"/>
+  <p class="tambah-try-out-CuB">Tambah Try Out </p>
+  <div class="rectangle-2633-KD7">
+  </div>
+  <div class="rectangle-2638-DpH">
+  </div>
+  <a href="{{ route('tentor.tambahpilgan') }}"><p class="pilihan-ganda-wVP">Pilihan Ganda</p></a>
+  <a href="{{ route('tentor.tambahessay') }}"><p class="essay-EjP">Essay</p></a>
+  <div class="rectangle-2633-kSq">
+  </div>
+  <a href="{{ route('tentor.ujiantentor') }}">
+    <p class="cancel-Hhf">
+      <span class="cancel-Hhf-sub-0">Cancel</span>
+      <span class="cancel-Hhf-sub-1"> </span>
+    </p>
+  </a>
+</div>
+</body>

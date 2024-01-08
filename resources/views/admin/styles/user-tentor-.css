@@ -1,0 +1,646 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.user-tentor--hED {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ebf8f6;
+}
+.user-tentor--hED .auto-group-pib7-21b {
+  width: 29.9rem;
+  height: 99.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-pib7-21b .rectangle-2572-jRo {
+  width: 29.9rem;
+  height: 92.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.user-tentor--hED .auto-group-pib7-21b .rectangle-2588-kLu {
+  width: 24.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 45.2rem;
+  background-color: #003580;
+  border-radius: 0.5rem;
+}
+.user-tentor--hED .auto-group-pib7-21b .rectangle-2574-fim {
+  width: 29.9rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #003580;
+}
+.user-tentor--hED .auto-group-pib7-21b .ellipse-4-pLm {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 13.8rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+}
+.user-tentor--hED .auto-group-pib7-21b .edupro-wgH {
+  width: 13.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .ic-round-list-3jK {
+  width: 3.225rem;
+  height: 1.7916rem;
+  position: absolute;
+  left: 24.8375rem;
+  top: 3.1541rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .username-9nM {
+  width: 6.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 24rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .admin-edupro-eUD {
+  width: 8.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 11rem;
+  top: 26.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .master-data-YJh {
+  width: 9.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .icon-park-twotone-dashboard-car-TRf {
+  width: 1.7417rem;
+  height: 1.65rem;
+  position: absolute;
+  left: 3.8792rem;
+  top: 35.675rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .mdi-users-amB {
+  width: 2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 46rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .user-vKF {
+  width: 3.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 45.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .mingcute-right-line-W2Z {
+  width: 2.4223rem;
+  height: 2.4221rem;
+  position: absolute;
+  left: 23.8rem;
+  top: 45.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .rectangle-2624-EjF {
+  width: 19.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 51rem;
+  border: solid 0.01rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.user-tentor--hED .auto-group-pib7-21b .rectangle-2625-L1b {
+  width: 19.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 55.6rem;
+  border: solid 0.01rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.user-tentor--hED .auto-group-pib7-21b .siswa-cUu {
+  width: 4.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 51.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .tentor-iXw {
+  width: 4.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 55.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .group-689-1G9 {
+  box-sizing: border-box;
+  padding: 0.431rem 0rem 0.225rem 0.125rem;
+  width: 7.6rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 67.2rem;
+}
+.user-tentor--hED .auto-group-pib7-21b .group-689-1G9 .ph-book-open-duotone-gdB {
+  margin-bottom: 2.5438rem;
+  width: 1.75rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .group-689-1G9 .user-menu-pDb {
+  margin: 0rem 0rem 3.417rem 0.075rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .group-689-1G9 .iconamoon-profile-LBw {
+  margin: 0rem 0rem 3.442rem 0.308rem;
+  width: 1.3333rem;
+  height: 1.2666rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .group-689-1G9 .material-symbols-logout-rounded-eyK {
+  margin-left: 0.2875rem;
+  width: 1.2467rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .ant-design-home-twotone-xUD {
+  width: 1.9479rem;
+  height: 1.8396rem;
+  position: absolute;
+  left: 4.0261rem;
+  top: 62.4799rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-pib7-21b .dashboard-Gzh {
+  width: 8.2rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 35.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .kelas-Kxy {
+  width: 4.1rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.8rem;
+  top: 62.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .mapel-eEZ {
+  width: 4.6rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.8rem;
+  top: 67.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .profile-9BK {
+  width: 4.9rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.8rem;
+  top: 77rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-pib7-21b .logout-4p5 {
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 81.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-ohdp-yRF {
+  width: 121.3rem;
+  height: 98.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F {
+  width: 121.3rem;
+  height: 70.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .rectangle-2575-fYy {
+  margin-bottom: 4.1rem;
+  width: 100%;
+  height: 8rem;
+  background-color: #2b7cc6;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj {
+  margin: 0rem 3.7rem 0rem 2.1rem;
+  width: calc(100% - 5.8rem);
+  height: 58.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj {
+  box-sizing: border-box;
+  padding: 0.8rem 3.4rem 10.3rem 3.4rem;
+  width: 115.5rem;
+  height: 58.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.02rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .tentor-F1P {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-ponu-yTB {
+  margin: 0rem 95.6rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.5rem 0.8rem 0.7rem;
+  width: calc(100% - 95.6rem);
+  display: flex;
+  align-items: center;
+  background-color: #007dff;
+  border-radius: 0.4rem;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-ponu-yTB .mingcute-user-add-fill-qkH {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-ponu-yTB .tambah-BJM {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-vv6q-WLd {
+  margin: 0rem 96.7rem 4.3rem 1.3rem;
+  width: calc(100% - 98rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-vv6q-WLd .hasil--dg9 {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-vv6q-WLd .auto-group-npxu-wB3 {
+  width: 5rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-vv6q-WLd .auto-group-npxu-wB3 .all-Hkh {
+  width: 2.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-vv6q-WLd .auto-group-npxu-wB3 .mingcute-right-line-Nn9 {
+  width: 1.5072rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 3rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-wmc9-qvd {
+  margin: 0rem 0rem 2.8rem 5.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-wmc9-qvd .nama-xEZ {
+  margin-right: 19.2rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-wmc9-qvd .email-Tx1 {
+  margin-right: 17.4rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-wmc9-qvd .opsi-9pq {
+  margin-top: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-prpo-Fss {
+  margin: 0rem 0rem 3.5rem 2.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-prpo-Fss .dewi-mastuti-8gm {
+  margin: 0.1rem 12.1rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #4c4e52;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-prpo-Fss .dewi12gmailcom-4aR {
+  margin: 0.2rem 9.9rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  text-decoration-line: underline;
+  color: #4c4e52;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-prpo-Fss .group-691-nFX {
+  width: 7.9rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-hn7f-uqw {
+  margin: 0rem 0rem 8.2rem 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-hn7f-uqw .dewi-mastuti-eoX {
+  margin: 0.4rem 11.8rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #4c4e52;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-hn7f-uqw .dewi12gmailcom-n93 {
+  margin: 0rem 9.9rem 0.2rem 0rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #4c4e52;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .auto-group-hn7f-uqw .group-690-U1s {
+  width: 7.9rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .group-694-cNy {
+  margin: 0rem 55.3rem 0rem 43rem;
+  width: calc(100% - 98.3rem);
+  height: 3.5rem;
+  display: flex;
+  column-gap: 0.6118rem;
+  align-items: center;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .group-694-cNy .auto-group-njf7-L45 {
+  width: 3.0588rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .group-694-cNy .auto-group-wgm3-t5b {
+  width: 3.0588rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-10-eSZ.png');
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .group-697-joj .group-694-cNy .auto-group-xrjj-vY5 {
+  width: 3.0588rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .line-11-CkV {
+  width: 66.3rem;
+  height: 0.06rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 18.9rem;
+  background-color: #000000;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .line-13-Y3f {
+  width: 66.7rem;
+  height: 0.02rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 31.2rem;
+  background-color: #000000;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .line-14-5ZP {
+  width: 66.7rem;
+  height: 0.02rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 38.9rem;
+  background-color: #000000;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .auto-group-swsb-83F .auto-group-gqxz-1sj .line-12-EBP {
+  width: 66.3rem;
+  height: 0.06rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 23.6rem;
+  background-color: #000000;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .saly-16-mBK {
+  width: 54.1rem;
+  height: 54.1rem;
+  position: absolute;
+  left: 64.8rem;
+  top: 13.8rem;
+}
+.user-tentor--hED .auto-group-ohdp-yRF .saly-16-mBK .saly-16-tWq {
+  width: 54.1rem;
+  height: 54.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}

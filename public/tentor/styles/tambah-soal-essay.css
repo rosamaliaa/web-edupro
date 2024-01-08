@@ -1,0 +1,616 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.tambah-soal-essay-SYD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ebf8f6;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu {
+  width: 29.9rem;
+  height: 100.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .rectangle-2572-tQD {
+  width: 29.9rem;
+  height: 94.3rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .rectangle-2637-Q7f {
+  width: 24.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2rem;
+  top: 54.4rem;
+  background-color: #003580;
+  border-radius: 0.5rem;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .rectangle-2574-ie9 {
+  width: 29.9rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #003580;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .ellipse-4-GQm {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 13.8rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .edupro-QG5 {
+  width: 13.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .ic-round-list-uyX {
+  width: 3.225rem;
+  height: 1.7916rem;
+  position: absolute;
+  left: 24.8375rem;
+  top: 3.1541rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .username-3K3 {
+  width: 6.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 24rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .tentor-menu-wQR {
+  width: 9.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .user-menu-epd {
+  width: 7.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 60rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .icon-park-twotone-dashboard-car-aCV {
+  width: 1.7417rem;
+  height: 1.65rem;
+  position: absolute;
+  left: 3.8792rem;
+  top: 35.675rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .iconamoon-profile-W69 {
+  width: 1.3333rem;
+  height: 1.2666rem;
+  position: absolute;
+  left: 3.8333rem;
+  top: 65.5166rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .material-symbols-logout-rounded-EH3 {
+  width: 1.2467rem;
+  height: 1.35rem;
+  position: absolute;
+  left: 3.8125rem;
+  top: 70.225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .ph-book-open-duotone-AAh {
+  width: 1.75rem;
+  height: 1.725rem;
+  position: absolute;
+  left: 3.725rem;
+  top: 46.0313rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .ph-book-duotone-hAd {
+  width: 1.65rem;
+  height: 1.7875rem;
+  position: absolute;
+  left: 3.675rem;
+  top: 50.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .healthicons-i-exam-multiple-choice-2ih {
+  width: 1.875rem;
+  height: 1.65rem;
+  position: absolute;
+  left: 3.4125rem;
+  top: 55.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .tentor-edupro-ZCq {
+  width: 8.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 26.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .dashboard-4fP {
+  width: 8.2rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 35.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .materi-NRB {
+  width: 4.7rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.4rem;
+  top: 45.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .tugas-HY9 {
+  width: 4.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 50.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .try-out-oWV {
+  width: 5.5rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 55.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .profile-itM {
+  width: 4.9rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 65.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-iah3-BEu .logout-qTB {
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 69.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo {
+  width: 121.3rem;
+  height: 98.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .rectangle-2575-JLm {
+  width: 100%;
+  height: 8rem;
+  background-color: #2b7cc6;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM {
+  box-sizing: border-box;
+  padding-top: 2.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-cc3p-nFw {
+  margin: 0rem 107.8rem 1.6rem 2.9rem;
+  box-sizing: border-box;
+  padding: 0.6rem 1.3rem 0.6rem 1.1rem;
+  width: calc(100% - 110.7rem);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.4rem #8ab336;
+  background-color: #8ab336;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-cc3p-nFw .vector-UPf {
+  margin: 0rem 1.15rem 0.05rem 0rem;
+  width: 1.15rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-cc3p-nFw .import-soal-bDP {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 {
+  margin: 0rem 2.9rem 18rem 2.9rem;
+  width: calc(100% - 5.8rem);
+  height: 62rem;
+  position: relative;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .try-out-essay-Ciy {
+  width: 15.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 {
+  width: 111.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 8.6rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .rectangle-2644-1wK {
+  width: 35.4rem;
+  height: 4.9rem;
+  border: solid 0.04rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-sqms-91w {
+  box-sizing: border-box;
+  padding: 1.3rem 0.884rem 1.184rem 1.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.04rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-sqms-91w .pilih-ToK {
+  margin: 0rem 28rem 0.316rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-sqms-91w .mingcute-right-line-z2Z {
+  width: 2.4158rem;
+  height: 2.4158rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-ymbk-tdj {
+  box-sizing: border-box;
+  padding: 1.3rem 0.984rem 1.184rem 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.04rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-ymbk-tdj .pilih-2V3 {
+  margin: 0rem 28rem 0.316rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-viu3-JX7 .auto-group-ymbk-tdj .mingcute-right-line-9pZ {
+  width: 2.4158rem;
+  height: 2.4158rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-4aez-4gd {
+  width: 111.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 18.9rem;
+  display: flex;
+  align-items: center;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-4aez-4gd .rectangle-2647-Pyo {
+  margin-right: 3.8rem;
+  width: 54rem;
+  height: 4.9rem;
+  border: solid 0.04rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-4aez-4gd .rectangle-2648-7uo {
+  width: 54rem;
+  height: 4.9rem;
+  border: solid 0.04rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-p43o-Sx5 {
+  width: 80rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5.5rem;
+  display: flex;
+  align-items: center;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-p43o-Sx5 .nama-ujian-aoP {
+  margin-right: 30.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-p43o-Sx5 .mapel-84D {
+  margin-right: 34.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-p43o-Sx5 .kelas-4Cm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-yh8h-nuT {
+  width: 111.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 25.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-yh8h-nuT .auto-group-ke8d-vkm {
+  margin: 0.3rem 87.9rem 0rem 0rem;
+  width: 8.4rem;
+  height: 4.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-yh8h-nuT .auto-group-ke8d-vkm .soal-ujian-egm {
+  width: 8.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-yh8h-nuT .auto-group-ke8d-vkm .soal-no-1-Ncm {
+  width: 6.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-yh8h-nuT .auto-group-mznh-VSV {
+  width: 15.5rem;
+  height: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007dff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-aew1-AYd {
+  width: 66.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 15.9rem;
+  display: flex;
+  align-items: center;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-aew1-AYd .waktu-jam-W6h {
+  margin-right: 50.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-aew1-AYd .waktu-menit-eCu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .rectangle-2641-BTj {
+  width: 111.8rem;
+  height: 21.5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 31.7rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fcfafa;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .auto-group-e4vy-HM7 .auto-group-kxdx-Gzy {
+  width: 15.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 55.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007dff;
+  border-radius: 0.4rem;
+}
+.tambah-soal-essay-SYD .auto-group-aya1-xXo .auto-group-bd4h-3JM .group-706-i6H {
+  width: 121.3rem;
+  height: 3.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

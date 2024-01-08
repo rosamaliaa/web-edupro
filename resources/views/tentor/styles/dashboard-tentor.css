@@ -1,0 +1,433 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.dashboard-tentor-WUD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ebf8f6;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM {
+  width: 29.9rem;
+  height: 112.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .rectangle-2572-wpR {
+  width: 29.9rem;
+  height: 106.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .materi-qQ1 {
+  width: 4.7rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 45.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .tugas-7sK {
+  width: 4.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 50.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .try-out-cp5 {
+  width: 5.5rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 55.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .rectangle-2587-WeZ {
+  width: 24.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 34.7rem;
+  background-color: #003580;
+  border-radius: 0.5rem;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .profile-2so {
+  width: 4.9rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.3rem;
+  top: 65.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .logout-wUy {
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 69.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .rectangle-2574-ePP {
+  width: 29.9rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #003580;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .ellipse-4-CA1 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 13.8rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .edupro-ie9 {
+  width: 13.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .ic-round-list-PkH {
+  width: 3.225rem;
+  height: 1.7917rem;
+  position: absolute;
+  left: 24.8375rem;
+  top: 3.1542rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .username-Wa1 {
+  width: 6.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 24rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .dashboard-op1 {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 35.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .tentor-menu-us3 {
+  width: 9.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .user-menu-RqP {
+  width: 7.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 60rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .icon-park-twotone-dashboard-car-9WV {
+  width: 1.7417rem;
+  height: 1.65rem;
+  position: absolute;
+  left: 3.8792rem;
+  top: 35.675rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .iconamoon-profile-Gr1 {
+  width: 1.3333rem;
+  height: 1.2667rem;
+  position: absolute;
+  left: 3.8333rem;
+  top: 65.5167rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .material-symbols-logout-rounded-bdP {
+  width: 1.2467rem;
+  height: 1.35rem;
+  position: absolute;
+  left: 3.8125rem;
+  top: 70.225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .ph-book-open-duotone-XG9 {
+  width: 1.75rem;
+  height: 1.725rem;
+  position: absolute;
+  left: 3.725rem;
+  top: 46.0313rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .ph-book-duotone-rZK {
+  width: 1.65rem;
+  height: 1.7875rem;
+  position: absolute;
+  left: 3.675rem;
+  top: 50.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .healthicons-i-exam-multiple-choice-zQd {
+  width: 1.875rem;
+  height: 1.65rem;
+  position: absolute;
+  left: 3.4125rem;
+  top: 55.475rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-tentor-WUD .auto-group-q8lm-2xM .tentor-edupro-ibX {
+  width: 8.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 26.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq {
+  width: 121.3rem;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .rectangle-2575-ynM {
+  margin-bottom: 3.09rem;
+  width: 100%;
+  height: 8rem;
+  background-color: #2b7cc6;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo {
+  margin-left: 5.7rem;
+  width: 58.4rem;
+  height: 24.11rem;
+  position: relative;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD {
+  box-sizing: border-box;
+  padding: 3.2rem 2.3rem 3.8rem 2.8rem;
+  width: 58.4rem;
+  height: 22.5rem;
+  position: absolute;
+  left: 0;
+  top: 1.61rem;
+  border: solid 0.02rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .dewi-mastuti-lestari-kRj {
+  margin-left: 0.3063rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .data-ini-diatur-oleh-administrator-jika-ada-perubahan-bisa-hubungi-admin-Ucd {
+  margin-bottom: 1.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 {
+  margin-left: 0.9rem;
+  width: calc(100% - 0.9rem);
+  height: 9.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-o4ff-iWy {
+  margin-right: 5rem;
+  box-sizing: border-box;
+  padding-bottom: 1.3rem;
+  width: 23.7rem;
+  border: solid 0.03rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-o4ff-iWy .auto-group-u157-r7P {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 2.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b7cc6;
+  border-radius: 0.2rem;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-o4ff-iWy .xii-ipa-1-8Ko {
+  margin-left: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-7jmo-zN1 {
+  box-sizing: border-box;
+  padding-bottom: 0.8rem;
+  width: 23.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.03rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-7jmo-zN1 .auto-group-tsd7-WbF {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 2.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b7cc6;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-7jmo-zN1 .biologi-ar1 {
+  margin: 0rem 1.2rem 0.9rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-7jmo-zN1 .line-19-uNV {
+  margin-bottom: 0.68rem;
+  width: 100%;
+  height: 0.02rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .group-684-3nD .auto-group-vyu7-BX3 .auto-group-7jmo-zN1 .kimia-3Uh {
+  margin-right: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-tentor-WUD .auto-group-xqbo-Rkq .auto-group-uwxr-vBo .zondicons-computer-laptop-g1s {
+  width: 4.3rem;
+  height: 3.12rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}

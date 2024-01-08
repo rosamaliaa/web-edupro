@@ -1,0 +1,598 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.detail-tugas-tentor-1-Yn9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebf8f6;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-mbqf-Hjj {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-mbqf-Hjj .auto-group-wujy-qWM {
+  box-sizing: border-box;
+  padding: 2rem 1.838rem 1.9rem 1.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-mbqf-Hjj .auto-group-wujy-qWM .edupro-NWH {
+  margin-right: 9.7375rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-mbqf-Hjj .auto-group-wujy-qWM .ic-round-list-W6h {
+  margin-top: 0.0001rem;
+  width: 3.225rem;
+  height: 1.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-mbqf-Hjj .rectangle-2575-RUZ {
+  width: 121.3rem;
+  height: 8rem;
+  background-color: #2b7cc6;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam {
+  width: 100%;
+  height: 90.2rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku {
+  box-sizing: border-box;
+  padding: 5.8rem 2.7rem 25.9rem 2.7rem;
+  width: 29.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .ellipse-4-Ctd {
+  margin: 0rem 7.7rem 1.2rem 7.8rem;
+  width: calc(100% - 15.5rem);
+  height: 9rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .username-vJq {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .tentor-edupro-T3s {
+  margin: 0rem 0.5rem 7.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-xyzy-yY1 {
+  margin: 0rem 11.8rem 2.9rem 0.479rem;
+  width: calc(100% - 12.2792rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-xyzy-yY1 .icon-park-twotone-dashboard-car-ugZ {
+  margin: 0rem 2.279rem 0.2rem 0rem;
+  width: 1.7417rem;
+  height: 1.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-xyzy-yY1 .dashboard-CvZ {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .siswa-menu-YDj {
+  margin: 0rem 14.6rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-igrb-TrV {
+  margin: 0rem 15.2rem 1.3rem 1.044rem;
+  width: calc(100% - 16.2438rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-igrb-TrV .ph-book-open-duotone-oQZ {
+  margin: 0rem 1.544rem 0.144rem 0rem;
+  width: 2.0125rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-igrb-TrV .materi-X5f {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-yawf-Tk1 {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.997rem 15.5rem 0.4rem 1.259rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-yawf-Tk1 .ph-book-duotone-apd {
+  margin: 0rem 1.759rem 0.797rem 0rem;
+  width: 1.5813rem;
+  height: 1.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-yawf-Tk1 .tugas-K1X {
+  margin-top: 0.1031rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-9jsf-DMo {
+  margin: 0rem 14.4rem 2.4rem 1.175rem;
+  width: calc(100% - 15.575rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-9jsf-DMo .healthicons-i-exam-multiple-choice-MD7 {
+  margin: 0.1rem 1.775rem 0rem 0rem;
+  width: 1.65rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-9jsf-DMo .try-out-fUh {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .user-menu-CjX {
+  margin: 0rem 15.4rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-qemk-8dB {
+  margin: 0rem 15rem 2.4rem 0.9rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-qemk-8dB .iconamoon-profile-4Wq {
+  margin-right: 1.4rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-qemk-8dB .profile-oDX {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-cn6q-jss {
+  margin: 0rem 14.6rem 0rem 1.138rem;
+  width: calc(100% - 15.7375rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-cn6q-jss .material-symbols-logout-rounded-5B3 {
+  margin: 0rem 2.069rem 0.4rem 0rem;
+  width: 1.3934rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-r1bj-Wku .auto-group-cn6q-jss .logout-bQH {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 {
+  width: 121.3rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb {
+  margin: 0rem 0rem 4.3rem 6.3rem;
+  width: 54.2rem;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.001rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(176, 186, 195, 0.400000006);
+  border-radius: 0.8rem;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-yyvw-oFT {
+  box-sizing: border-box;
+  padding: 0.6rem 2.2rem 0rem 2.2rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #acb6c0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo {
+  box-sizing: border-box;
+  padding: 2rem 1.84rem 0.9rem 1.84rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .auto-group-2jed-cih {
+  margin: 0rem 22.16rem 0.6rem 0rem;
+  width: calc(100% - 22.16rem);
+  height: 5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .auto-group-2jed-cih .pepicons-print-file-k4D {
+  margin: 0.19rem 2.08rem 0rem 0rem;
+  width: 2.88rem;
+  height: 3.6101rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .auto-group-2jed-cih .auto-group-dt77-evH {
+  width: 23.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .auto-group-2jed-cih .auto-group-dt77-evH .kimia-unsur-dan-senyawa-QeZ {
+  width: 23.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .auto-group-2jed-cih .auto-group-dt77-evH .kelas-xii-c-urD {
+  width: 7.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-670-ssb .auto-group-kozm-tXo .lihat-hasil-DM7 {
+  margin-left: 4.96rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw {
+  margin: 0rem 0rem 4.3rem 6.5rem;
+  width: 54.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.001rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(176, 186, 195, 0.400000006);
+  border-radius: 0.8rem;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-1csr-EGD {
+  box-sizing: border-box;
+  padding: 0.6rem 2.2rem 0rem 2.2rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #acb6c0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 {
+  box-sizing: border-box;
+  padding: 2rem 1.84rem 0.9rem 1.84rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .auto-group-pmad-SdB {
+  margin: 0rem 22.16rem 0.6rem 0rem;
+  width: calc(100% - 22.16rem);
+  height: 5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .auto-group-pmad-SdB .pepicons-print-file-mQZ {
+  margin: 0.19rem 2.08rem 0rem 0rem;
+  width: 2.88rem;
+  height: 3.6101rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .auto-group-pmad-SdB .auto-group-dvcd-J9b {
+  width: 23.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .auto-group-pmad-SdB .auto-group-dvcd-J9b .kimia-unsur-dan-senyawa-rB7 {
+  width: 23.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .auto-group-pmad-SdB .auto-group-dvcd-J9b .kelas-xii-c-xjw {
+  width: 7.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-671-uDw .auto-group-7rlm-757 .lihat-hasil-sru {
+  margin-left: 4.96rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u {
+  margin: 0rem 0rem 20.7rem 6.5rem;
+  width: 54.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.001rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(176, 186, 195, 0.400000006);
+  border-radius: 0.8rem;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-dfp1-WQ5 {
+  box-sizing: border-box;
+  padding: 0.6rem 2.2rem 0rem 2.2rem;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #acb6c0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX {
+  box-sizing: border-box;
+  padding: 2rem 1.84rem 0.9rem 1.84rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .auto-group-trob-L8D {
+  margin: 0rem 22.16rem 0.6rem 0rem;
+  width: calc(100% - 22.16rem);
+  height: 5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .auto-group-trob-L8D .pepicons-print-file-Fky {
+  margin: 0.19rem 2.08rem 0rem 0rem;
+  width: 2.88rem;
+  height: 3.6101rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .auto-group-trob-L8D .auto-group-havy-NKo {
+  width: 23.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .auto-group-trob-L8D .auto-group-havy-NKo .kimia-unsur-dan-senyawa-iuT {
+  width: 23.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .auto-group-trob-L8D .auto-group-havy-NKo .kelas-xii-c-F8h {
+  width: 7.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-672-B6u .auto-group-mvv3-bRX .lihat-hasil-MxR {
+  margin-left: 4.96rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-675-fTK {
+  margin: 0rem 105.4rem 4.6rem 2.9rem;
+  box-sizing: border-box;
+  padding: 0.6rem 2.3rem 0.5rem 0.8rem;
+  width: calc(100% - 108.3rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #d14747;
+  border-radius: 0.2rem;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-675-fTK .vector-N6q {
+  margin-right: 1.8rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-675-fTK .kembali-WD3 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-1-Yn9 .auto-group-p7cq-Zam .auto-group-q7tj-Kr5 .group-705-Rau {
+  width: 121.3rem;
+  height: 3.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,784 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.detail-tugas-tentor-2-9gh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ebf8f6;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR {
+  width: 29.9rem;
+  height: 98.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-yii1-q3j {
+  box-sizing: border-box;
+  padding: 2rem 1.838rem 1.9rem 1.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-yii1-q3j .edupro-ZVX {
+  margin-right: 9.7375rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-yii1-q3j .ic-round-list-5yf {
+  margin-bottom: 0.0002rem;
+  width: 3.225rem;
+  height: 1.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb {
+  box-sizing: border-box;
+  padding: 5.8rem 2.7rem 25.9rem 2.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .ellipse-4-JrR {
+  margin: 0rem 7.7rem 1.2rem 7.8rem;
+  width: calc(100% - 15.5rem);
+  height: 9rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .username-pJy {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .tentor-edupro-jgq {
+  margin: 0rem 0.5rem 7.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-dnrh-Fv5 {
+  margin: 0rem 11.7rem 2.9rem 0.479rem;
+  width: calc(100% - 12.1792rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-dnrh-Fv5 .icon-park-twotone-dashboard-car-PWV {
+  margin: 0rem 2.379rem 0.2rem 0rem;
+  width: 1.7417rem;
+  height: 1.4666rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-dnrh-Fv5 .dashboard-7Bb {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .siswa-menu-Sjf {
+  margin: 0rem 14.6rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-vie9-kkM {
+  margin: 0rem 15.1rem 1.3rem 1.044rem;
+  width: calc(100% - 16.1438rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-vie9-kkM .ph-book-open-duotone-HEV {
+  margin: 0rem 1.644rem 0.144rem 0rem;
+  width: 2.0125rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-vie9-kkM .materi-CsF {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-reih-LyT {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.997rem 15.5rem 0.4rem 1.259rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-reih-LyT .ph-book-duotone-sCh {
+  margin: 0rem 1.759rem 0.797rem 0rem;
+  width: 1.5813rem;
+  height: 1.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-reih-LyT .tugas-Pwj {
+  margin-top: 0.1031rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-ha69-gvq {
+  margin: 0rem 14.4rem 2.4rem 1.175rem;
+  width: calc(100% - 15.575rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-ha69-gvq .healthicons-i-exam-multiple-choice-2E1 {
+  margin: 0.1rem 1.775rem 0rem 0rem;
+  width: 1.65rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-ha69-gvq .try-out-LVb {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .user-menu-t1K {
+  margin: 0rem 15.4rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-9vpk-oe5 {
+  margin: 0rem 15rem 2.4rem 0.9rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-9vpk-oe5 .iconamoon-profile-jnd {
+  margin-right: 1.4rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-9vpk-oe5 .profile-GnZ {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-3rxs-CRK {
+  margin: 0rem 14.6rem 0rem 1.138rem;
+  width: calc(100% - 15.7375rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-3rxs-CRK .material-symbols-logout-rounded-jAM {
+  margin: 0rem 2.069rem 0.4rem 0rem;
+  width: 1.3934rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bgn1-hCR .auto-group-enc5-CHb .auto-group-3rxs-CRK .logout-T6M {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm {
+  width: 121.3004rem;
+  height: 98.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .rectangle-2575-VHw {
+  width: 121.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b7cc6;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .rectangle-2612-qMo {
+  width: 115rem;
+  height: 82rem;
+  position: absolute;
+  left: 0;
+  top: 11.5rem;
+  border: solid 0.01rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .rectangle-2613-97b {
+  width: 105.1rem;
+  height: 64.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 22rem;
+  box-shadow: 0 0.194rem 1.7459rem rgba(0, 0, 0, 0.25);
+  background-color: #f7f4f4;
+  border-radius: 0.485rem;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .no-r21 {
+  width: 3.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 25.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .nama-MzM {
+  width: 5.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 24.9rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .lihat-jawaban-Up5 {
+  width: 12.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 93.6rem;
+  top: 24.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #003580;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .andi-hermawati-PRF {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 31.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .load-more--76M {
+  width: 11.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 96.9rem;
+  top: 80.8rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-Rsj {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.6rem;
+  top: 31.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-Lzh {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.7rem;
+  top: 39rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-Fbs {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.8rem;
+  top: 45.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-Ayj {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.7rem;
+  top: 53.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-VFK {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.8rem;
+  top: 59.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-cKw {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.7rem;
+  top: 66.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .detail-jawaban-L13 {
+  width: 12rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.7rem;
+  top: 73.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .affan-yuananda-a-eGd {
+  width: 13rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 39.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .bagas-adi-AEy {
+  width: 7.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 45.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .bima-dirgantara-gUD {
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 53.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .enzy-storia-zzh {
+  width: 8.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 59.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .jaqueline-firda-Wy3 {
+  width: 11.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 66.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .kalila-susilo-2gV {
+  width: 9.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 43.1rem;
+  top: 73.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-1-kcV {
+  width: 1.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 31.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-3-4NH {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 45.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-4-AgD {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 53.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-5-5YH {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 59.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-6-zfF {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 66.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-7-WtV {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 73.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .item-2-EpV {
+  width: 1.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.8rem;
+  top: 39.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-11-Z65 {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 29.7rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-12-gwP {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 36.7rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-13-xP7 {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 43.5rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-14-u3T {
+  width: 100.2005rem;
+  height: 0;
+  position: absolute;
+  left: 7.9rem;
+  top: 50.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-15-ErR {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 57.8rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-16-NSq {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 78rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-18-7fK {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 71.4rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .line-17-SxV {
+  width: 100.2005rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 64.6rem;
+  background-color: #888888;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .group-674-6GM {
+  box-sizing: border-box;
+  padding: 0.6rem 2.3rem 0.5rem 0.8rem;
+  width: 13rem;
+  height: 3.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 88.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #d14747;
+  border-radius: 0.2rem;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .group-674-6GM .vector-PFT {
+  margin-right: 1.8rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .group-674-6GM .kembali-vFP {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .vector-SjX {
+  width: 2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 99.1rem;
+  top: 16.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .kimia-unsur-dan-senyawa-Bh7 {
+  width: 23.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6rem;
+  top: 13.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .kelas-xii-c-Hk9 {
+  width: 7.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6rem;
+  top: 16.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .filter-D81 {
+  width: 4.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 102.2rem;
+  top: 15.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-2-9gh .auto-group-bbsb-agm .group-709-vo7 {
+  width: 3.4004rem;
+  height: 90.3rem;
+  position: absolute;
+  left: 117.9rem;
+  top: 7.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}

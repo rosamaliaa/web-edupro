@@ -1,0 +1,665 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.detail-tugas-tentor-4-Hi5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ebf8f6;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd {
+  width: 29.9rem;
+  height: 98.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-skv9-xZK {
+  box-sizing: border-box;
+  padding: 2rem 1.838rem 1.9rem 1.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-skv9-xZK .edupro-swB {
+  margin-right: 9.7375rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-skv9-xZK .ic-round-list-o49 {
+  margin-bottom: 0.0002rem;
+  width: 3.225rem;
+  height: 1.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu {
+  box-sizing: border-box;
+  padding: 5.8rem 2.7rem 25.9rem 2.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .ellipse-4-RbK {
+  margin: 0rem 7.7rem 1.2rem 7.8rem;
+  width: calc(100% - 15.5rem);
+  height: 9rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .username-XuF {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .tentor-edupro-fEm {
+  margin: 0rem 0.5rem 7.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-xswp-aMj {
+  margin: 0rem 11.7rem 2.9rem 0.479rem;
+  width: calc(100% - 12.1792rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-xswp-aMj .icon-park-twotone-dashboard-car-VzV {
+  margin: 0rem 2.379rem 0.2rem 0rem;
+  width: 1.7417rem;
+  height: 1.4666rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-xswp-aMj .dashboard-DQh {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .siswa-menu-kQd {
+  margin: 0rem 14.6rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-cmyf-GNy {
+  margin: 0rem 15.1rem 1.3rem 1.044rem;
+  width: calc(100% - 16.1438rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-cmyf-GNy .ph-book-open-duotone-PiV {
+  margin: 0rem 1.644rem 0.144rem 0rem;
+  width: 2.0125rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-cmyf-GNy .materi-Wo7 {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-f6m3-43w {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.997rem 15.5rem 0.4rem 1.259rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-f6m3-43w .ph-book-duotone-nVj {
+  margin: 0rem 1.759rem 0.797rem 0rem;
+  width: 1.5813rem;
+  height: 1.7063rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-f6m3-43w .tugas-Wgd {
+  margin-top: 0.1031rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-vrok-Db3 {
+  margin: 0rem 14.4rem 2.4rem 1.175rem;
+  width: calc(100% - 15.575rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-vrok-Db3 .healthicons-i-exam-multiple-choice-9Do {
+  margin: 0.1rem 1.775rem 0rem 0rem;
+  width: 1.65rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-vrok-Db3 .try-out-Fnd {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .user-menu-bbb {
+  margin: 0rem 15.4rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-9mmp-KnV {
+  margin: 0rem 15rem 2.4rem 0.9rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-9mmp-KnV .iconamoon-profile-rXX {
+  margin-right: 1.4rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-9mmp-KnV .profile-CLV {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-fhkq-jbK {
+  margin: 0rem 14.6rem 0rem 1.138rem;
+  width: calc(100% - 15.7375rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-fhkq-jbK .material-symbols-logout-rounded-sSd {
+  margin: 0rem 2.069rem 0.4rem 0rem;
+  width: 1.3934rem;
+  height: 1.35rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-3sc9-Drd .auto-group-sdu9-igu .auto-group-fhkq-jbK .logout-Pfs {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK {
+  width: 121.3004rem;
+  height: 103.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2575-2D3 {
+  width: 121.3rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b7cc6;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-675-xcV {
+  box-sizing: border-box;
+  padding: 0.6rem 2.3rem 0.5rem 0.8rem;
+  width: 13rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 99.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #d14747;
+  border-radius: 0.2rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-675-xcV .vector-fG1 {
+  margin-right: 1.8rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-675-xcV .kembali-1Ks {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2592-vxd {
+  width: 112.3rem;
+  height: 87.5rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 10.7rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .nama-tugas-Dgq {
+  width: 8.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .upload-file-XSd {
+  width: 7.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 71.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1170ee;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .text-Erq {
+  width: 2.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 33rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .mata-pelajaran-m65 {
+  width: 9.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.8rem;
+  top: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .kelas-5Mf {
+  width: 3.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .ph-book-open-duotone-nms {
+  width: 1.75rem;
+  height: 1.725rem;
+  position: absolute;
+  left: 7.825rem;
+  top: 18.9313rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .tambah-materi-urV {
+  width: 17rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 12.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.3075;
+  color: #555555;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-674-RZw {
+  box-sizing: border-box;
+  padding: 0.6rem 2.3rem 0.5rem 0.8rem;
+  width: 13rem;
+  height: 3.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.1rem;
+  top: 18rem;
+  display: flex;
+  align-items: center;
+  background-color: #d14747;
+  border-radius: 0.2rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-674-RZw .vector-vWh {
+  margin-right: 1.8rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-674-RZw .kembali-fjB {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2643-QAy {
+  width: 22.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 26.8rem;
+  border: solid 0.03rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .due-date-JGM {
+  width: 6.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 62.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2644-DeD {
+  width: 29.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 65.1rem;
+  border: solid 0.03rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2645-Jff {
+  width: 29.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 38.4rem;
+  top: 65.1rem;
+  border: solid 0.03rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2639-QTo {
+  width: 22.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 35.7rem;
+  top: 26.8rem;
+  border: solid 0.03rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2640-u9f {
+  width: 22.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 26.8rem;
+  border: solid 0.03rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .pilih-nz9 {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 37rem;
+  top: 27.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .pilih-Vdf {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 68rem;
+  top: 27.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .mingcute-right-line-ouF {
+  width: 2.4157rem;
+  height: 2.4158rem;
+  position: absolute;
+  left: 55.3rem;
+  top: 27.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .mingcute-right-line-j2D {
+  width: 2.4157rem;
+  height: 2.4158rem;
+  position: absolute;
+  left: 85.1rem;
+  top: 27.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2641-44V {
+  width: 107rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 36.3rem;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fcfafa;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .image-23-kT7 {
+  width: 75.6rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 80.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2580-Utu {
+  width: 107.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 75rem;
+  border: solid 0.1rem #f1f2f4;
+  box-sizing: border-box;
+  background-color: #f1f2f4;
+  border-radius: 0.5rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .choose-file-BoK {
+  width: 8.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 76rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .rectangle-2583-J7F {
+  width: 9.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 103.3rem;
+  top: 75rem;
+  border: solid 0.1rem #eaeaea;
+  box-sizing: border-box;
+  background-color: #e7eded;
+  border-radius: 0.5rem;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .browse-p5b {
+  width: 4.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 106.3rem;
+  top: 76.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #656464;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .hh-bb-tttt-veR {
+  width: 5.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 65.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .item--Rr5 {
+  width: 2.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 65.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tugas-tentor-4-Hi5 .auto-group-reld-uPK .group-710-8kV {
+  width: 3.4004rem;
+  height: 90.3rem;
+  position: absolute;
+  left: 117.9rem;
+  top: 7.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}

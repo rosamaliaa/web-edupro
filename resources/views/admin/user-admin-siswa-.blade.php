@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>User Admin siswa </title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Assistant%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="{{ asset('admin/styles/user-admin-siswa-.css') }}"/>
+</head>
+<body>
+<div class="user-admin-siswa--21s">
+  <div class="auto-group-3omf-9cH">
+    <div class="rectangle-2572-UPf">
+    </div>
+    <div class="rectangle-2588-nQM">
+    </div>
+    <div class="rectangle-2574-JtV">
+    </div>
+    <div class="ellipse-4-Foj">
+    </div>
+    <p class="edupro-mn5">EduPro</p>
+    <img class="ic-round-list-FhF" src="{{ asset('admin/assets/ic-round-list-2qK.png') }}"/>
+    <p class="username-aDj">Username</p>
+    <p class="admin-edupro-sTj">Admin EduPro</p>
+    <p class="master-data-yFs">MASTER DATA</p>
+    <div class="group-695-cpd">
+      <a href="{{ route('admin.dashboard') }}"><p class="dashboard-YiH">Dashboard</p></a>
+      <img class="icon-park-twotone-dashboard-car-rDB" src="{{ asset('admin/assets/icon-park-twotone-dashboard-car-7au.png') }}"/>
+    </div>
+    <img class="mdi-users-h7K" src="{{ asset('admin/assets/mdi-users-CWh.png') }}"/>
+    <p class="user-S4u">User</p>
+    <img class="mingcute-right-line-LAH" src="{{ asset('admin/assets/mingcute-right-line-hwb.png') }}"/>
+    <div class="rectangle-2624-G3w">
+    </div>
+    <div class="rectangle-2625-vPP">
+    </div>
+    <a href="{{ route('admin.useradminsiswa') }}"><p class="siswa-QZT">Siswa </p></a>
+    <a href="{{ route('admin.useradmintentor') }}"><p class="tentor-vnh">Tentor</p></a>
+    <div class="group-689-3cR">
+      <div class="auto-group-sza9-Zqf">
+        <img class="ant-design-home-twotone-tN9" src="{{ asset('admin/assets/ant-design-home-twotone-j9F.png') }}"/>
+        <a href="{{ route('admin.kelas') }}"><p class="kelas-mRw">Kelas</p></a>
+      </div>
+      <div class="auto-group-fim3-Jgm">
+        <img class="ph-book-open-duotone-EaR" src="{{ asset('admin/assets/ph-book-open-duotone-yqf.png') }}"/>
+        <a href="{{ route('admin.mapel') }}"><p class="mapel-M9F">Mapel</p></a>
+      </div>
+      <p class="user-menu-ghK">user MENU</p>
+      <div class="auto-group-gtid-QdK">
+        <img class="iconamoon-profile-WwF" src="{{ asset('admin/assets/iconamoon-profile-r9K.png') }}"/>
+        <a href="{{ route('admin.profiladmin') }}"><p class="profile-1t1">Profile</p></a>
+      </div>
+      <div class="auto-group-1ziz-ZPj">
+        <img class="material-symbols-logout-rounded-6uT" src="{{ asset('admin/assets/material-symbols-logout-rounded-yQy.png') }}"/>
+        <a href="{{ route('user.landingpage') }}"><p class="logout-RRw">Logout</p></a>
+      </div>
+    </div>
+  </div>
+  <div class="auto-group-2amt-w9P">
+    <div class="rectangle-2575-5mP">
+    </div>
+    <div class="auto-group-fpud-qEm">
+      <div class="group-689-X7b">
+        <div class="auto-group-lrhp-TG9">
+          <p class="item-180976580-Bhw">180976580</p>
+          <p class="abdul-kodir-utq">Abdul Kodir</p>
+          <p class="abdulgmailcom-Mkq">Abdul@gmail.com</p>
+          <p class="xii-ipa-1-FrD">XII-IPA-1</p>
+        </div>
+        <img class="auto-group-gdcr-zYu" src="{{ asset('admin/assets/auto-group-gdcr.png') }}"/>
+        <img class="auto-group-zanz-vxM" src="{{ asset('admin/assets/auto-group-zanz.png') }}"/>
+      </div>
+      <div class="group-689-5KT">
+        <div class="auto-group-7jeh-aX7">
+          <p class="item-180976580-7X3">180976580</p>
+          <p class="abdul-kodir-pgM">Abdul Kodir</p>
+          <p class="abdulgmailcom-y3T">Abdul@gmail.com</p>
+          <p class="xii-ipa-1-tw7">XII-IPA-1</p>
+        </div>
+        <img class="auto-group-w1mp-EVB" src="{{ asset('admin/assets/auto-group-w1mp.png') }}"/>
+        <img class="auto-group-lapp-9s3" src="{{ asset('admin/assets/auto-group-lapp.png') }}"/>
+      </div>
+      <div class="group-689-sHF">
+        <div class="auto-group-gaw7-D6D">
+          <p class="item-180976580-YeH">180976580</p>
+          <p class="abdul-kodir-H65">Abdul Kodir</p>
+          <p class="abdulgmailcom-dQq">Abdul@gmail.com</p>
+          <p class="xii-ipa-1-9e5">XII-IPA-1</p>
+        </div>
+        <img class="auto-group-ph1w-5Gq" src="{{ asset('admin/assets/auto-group-ph1w.png') }}"/>
+        <img class="auto-group-rqtq-d3T" src="{{ asset('admin/assets/auto-group-rqtq.png') }}"/>
+      </div>
+      <p class="siswa-aDb">Siswa </p>
+      <div class="auto-group-i4qu-5w3">
+        <p class="no-induk-z2R">NO INDUK </p>
+        <p class="nama-Joo">NAMA </p>
+        <p class="email-ecm">EMAIL</p>
+        <p class="kelas-ZUq">KELAS </p>
+        <p class="opsi-5CH">OPSI</p>
+      </div>
+      <div class="auto-group-fz4q-DpH">
+        <img class="mingcute-user-add-fill-8RT" src="{{ asset('admin/assets/mingcute-user-add-fill-jgy.png') }}"/>
+        <a href="{{ route('admin.tambahsiswa') }}"><p class="tambah-eub">Tambah</p></a>
+      </div>
+      <div class="auto-group-qfcz-Bed">
+        <p class="hasil--KVw">Hasil :</p>
+        <div class="auto-group-xlzh-eHK">
+          <p class="all-oR7">All  </p>
+          <img class="mingcute-right-line-uj3" src="{{ asset('admin/assets/mingcute-right-line-1hP.png') }}"/>
+        </div>
+      </div>
+      <div class="group-694-9dP">
+        <img class="auto-group-d2rq-spH" src="{{ asset('admin/assets/auto-group-d2rq.png') }}"/>
+        <div class="auto-group-yzhs-pzR">1</div>
+        <img class="auto-group-okh3-Jub" src="{{ asset('admin/assets/auto-group-okh3.png') }}"/>
+      </div>
+      <div class="line-15-2qb">
+      </div>
+      <div class="line-14-xjF">
+      </div>
+      <div class="line-15-VjB">
+      </div>
+      <div class="line-13-2z1">
+      </div>
+      <div class="line-11-mwb">
+      </div>
+    </div>
+  </div>
+</div>
+</body>

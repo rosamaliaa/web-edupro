@@ -1,0 +1,429 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.detail-upload-tugas--B3K {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebf8f6;
+}
+.detail-upload-tugas--B3K .auto-group-1esm-tyK {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-1esm-tyK .auto-group-eiy3-3LR {
+  box-sizing: border-box;
+  padding: 2rem 1.838rem 1.9rem 1.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-1esm-tyK .auto-group-eiy3-3LR .edupro-AR3 {
+  margin-right: 9.7375rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2525;
+  color: #ff9800;
+  font-family: Orbitron, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-1esm-tyK .auto-group-eiy3-3LR .ic-round-list-geH {
+  margin-top: 0.0001rem;
+  width: 3.225rem;
+  height: 1.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-1esm-tyK .rectangle-2575-CsX {
+  width: 121.3rem;
+  height: 8rem;
+  background-color: #2b7cc6;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF {
+  margin-right: 4.8rem;
+  width: calc(100% - 4.8rem);
+  height: 90.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB {
+  margin-right: 6.3rem;
+  box-sizing: border-box;
+  padding: 5.8rem 2.7rem 25.9rem 2.7rem;
+  width: 29.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .ellipse-4-mJM {
+  margin: 0rem 7.7rem 1.2rem 7.8rem;
+  width: calc(100% - 15.5rem);
+  height: 9rem;
+  background-color: #d9d9d9;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .username-tNy {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .siswa-edupro-Dg9 {
+  margin-bottom: 7.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ls8b-x7w {
+  margin: 0rem 11.7rem 2.4rem 0.988rem;
+  width: calc(100% - 12.6875rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ls8b-x7w .icon-park-twotone-dashboard-car-tGV {
+  margin: 0.175rem 1.688rem 0rem 0rem;
+  width: 1.925rem;
+  height: 1.65rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ls8b-x7w .dashboard-NBf {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .siswa-menu-W2y {
+  margin: 0rem 14.6rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xkqb-2GD {
+  margin: 0rem 15.2rem 1.3rem 1.025rem;
+  width: calc(100% - 16.225rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xkqb-2GD .ph-book-open-duotone-9rd {
+  margin: 0rem 1.825rem 0.144rem 0rem;
+  width: 1.75rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xkqb-2GD .materi-5EV {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ugnx-QnZ {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0.825rem 16.5rem 0.9rem 1.275rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ugnx-QnZ .ph-book-duotone-8iZ {
+  margin: 0rem 1.675rem 0.225rem 0rem;
+  width: 1.65rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-ugnx-QnZ .tugas-Tkq {
+  margin-top: 0.275rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xc1h-P8h {
+  margin: 0rem 14.4rem 2.4rem 1.2rem;
+  width: calc(100% - 15.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xc1h-P8h .healthicons-i-exam-multiple-choice-KY9 {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  width: 1.8rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-xc1h-P8h .try-out-2xM {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .user-menu-NFX {
+  margin: 0rem 15.4rem 3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-avhy-HtH {
+  margin: 0rem 15rem 2.4rem 0.9rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-avhy-HtH .iconamoon-profile-cQm {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  width: 2.1rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-avhy-HtH .profile-wT3 {
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-bffz-HWu {
+  margin: 0rem 14.6rem 0rem 1.138rem;
+  width: calc(100% - 15.7375rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-bffz-HWu .material-symbols-logout-rounded-d4y {
+  margin: 0.1rem 2.069rem 0rem 0rem;
+  width: 1.3934rem;
+  height: 1.725rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-d3mm-HPB .auto-group-bffz-HWu .logout-wbT {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #7c838a;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq {
+  margin: 4.6rem 0rem 4.4rem 0rem;
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 1.4rem 0rem;
+  width: 110.2rem;
+  height: calc(100% - 9rem);
+  box-shadow: 0 0.2rem 1.8rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .kimia-unsur-dan-senyawa-mKb {
+  margin: 0rem 0rem 0.5rem 4.5rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .tentor-aryasaty-kelas-xii-d-mapel-kimia-due-date-2023-10-21-23-59-5r5 {
+  margin: 0rem 0rem 1.7rem 6rem;
+  max-width: 19.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .line-5-Acd {
+  margin-bottom: 4.04rem;
+  width: 109.7001rem;
+  height: 0.06rem;
+  background-color: #7c838a;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-aenean-et-purus-non-purus-faucibus-dictum-pellentesque-suscipit-enim-porta-porta-diam-quis-venenatis-quam-donec-elementum-nisl-sit-amet-nulla-pulvinar-aliquam-nam-lectus-lorem-dictum-id-porta-ut-rhoncus-vestibulum-diam-ut-ullamcorper-augue-nec-dapibus-feugiat-phasellus-vel-sem-egestas-interdum-nisi-ac-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-aenean-et-purus-non-purus-faucibus-dictum-pellentesque-suscipit-enim-porta-porta-diam-quis-venenatis-quam-donec-elementum-nisl-sit-amet-nulla-pulvinar-aliquam-nam-lectus-lorem-dictum-id-porta-ut-rhoncus-vestibulum-diam-ut-ullamcorper-augue-nec-dapibus-feugiat-phasellus-vel-sem-egestas-interdum-nisi-ac-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-aenean-et-purus-non-purus-faucibus-dictum-pellentesque-suscipit-enim-porta-porta-diam-quis-venenatis-quam-donec-elementum-nisl-sit-amet-nulla-pulvinar-aliquam-nam-lectus-lorem-dictum-id-porta-ut-rhoncus-vestibulum-diam-ut-ullamcorper-augue-nec-dapibus-feugiat-phasellus-vel-sem-egestas-interdum-nisi-ac-kumpulkan-dalam-bentuk-pdf-JTw {
+  margin: 0rem 0rem 5.5rem 3.6rem;
+  max-width: 101rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #000000;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw {
+  margin-left: 3.2rem;
+  width: 35.8rem;
+  height: 29.6rem;
+  position: relative;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .rectangle-2606-Gb7 {
+  width: 35.8rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .tugas-belum-dikerjakan-segera-dikerjakan-sebelum-2023-10-21-23-59-9uo {
+  width: 30.2rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 5.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  color: #000000;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .rectangle-2607-1x1 {
+  width: 11.7rem;
+  height: 3.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.4rem;
+  top: 11.9rem;
+  background-color: #2b7cc6;
+  border-radius: 0.5rem;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .tugas-saya-jd7 {
+  width: 10.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 2rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #1c1d1f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .group-673-SnR {
+  width: 13rem;
+  height: 17rem;
+  position: absolute;
+  left: 0;
+  top: 12.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .group-673-SnR .kerjakan-Nvy {
+  margin: 0rem 0rem 11.3rem 2.9rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .group-673-SnR .auto-group-fbvj-hiM {
+  box-sizing: border-box;
+  padding: 0.6rem 2.3rem 0.5rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d14747;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .group-673-SnR .auto-group-fbvj-hiM .vector-ECV {
+  margin-right: 1.8rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-upload-tugas--B3K .auto-group-hmfr-kPF .auto-group-tcz7-GNq .auto-group-rucx-wHw .group-673-SnR .auto-group-fbvj-hiM .kembali-aGM {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.3075;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

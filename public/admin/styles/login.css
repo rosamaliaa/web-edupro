@@ -1,0 +1,182 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.login-jzM {
+  box-sizing: border-box;
+  padding-left: 7.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #003580;
+}
+.login-jzM .login-page-img-Uww {
+  margin: 0rem 3.9rem 8.8rem 0rem;
+  width: 51.2rem;
+  height: 48.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH {
+  box-sizing: border-box;
+  padding: 19.3rem 9.666rem 25.7rem 5.3rem;
+  width: 90.8rem;
+  height: 108rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebf8f6;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .title-Wdj {
+  margin: 0rem 1.034rem 10.6rem 0rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .emailinput-2c5 {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .emailinput-2c5 .email-atV {
+  margin: 0rem 0rem 0.164rem 0.253rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .emailinput-2c5 .emailinp-uQy {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .emailinput-2c5 .emailinp-uQy .enter-your-email-here-Fzd {
+  width: 21rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.0557rem;
+  top: 1.793rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-jzM .content-zvH .emailinput-2c5 .emailinp-uQy .input-M25 {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.login-jzM .content-zvH .passwordinput-UsP {
+  margin-bottom: 8.0609rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .passwordinput-UsP .password-2tu {
+  margin: 0rem 0rem 0.164rem 0.253rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .passwordinput-UsP .passwordinp-MwB {
+  width: 100%;
+  height: 6.8555rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .passwordinput-UsP .passwordinp-MwB .enter-your-password-here-vUV {
+  width: 25.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.0557rem;
+  top: 1.793rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-jzM .content-zvH .passwordinput-UsP .passwordinp-MwB .input-pZs {
+  width: 75.8343rem;
+  height: 6.8555rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(176, 186, 195, 0.400000006);
+}
+.login-jzM .content-zvH .buttoncreateacc-ZnM {
+  margin: 0rem 0.434rem 7.372rem 0.4rem;
+  width: calc(100% - 0.8343rem);
+  height: 6.3281rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e5eff8;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .forgot-your-password-reset-here-EtV {
+  margin-right: 0.4343rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6eb6ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.login-jzM .content-zvH .forgot-your-password-reset-here-EtV .forgot-your-password-reset-here-EtV-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #7c838a;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.login-jzM .content-zvH .forgot-your-password-reset-here-EtV .forgot-your-password-reset-here-EtV-sub-1 {
+}
